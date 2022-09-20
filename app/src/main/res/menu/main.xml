@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/actionPak"
+        android:title="پاکستانی"/>
+    <item android:id="@+id/actionInternational"
+        android:title="بین اقوامی"/>
+    <item android:id="@+id/actionSports"
+        android:title="کھیل"/>
+    <item android:id="@+id/actionTech"
+        android:title="حیرت انگیز"/>
+    <item android:id="@+id/actionPrivacy"
+        android:title="Privacy Policy"/>
+</menu>
